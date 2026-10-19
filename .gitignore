@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env*.local
+
+# Local and generated files
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+
+# Temporary design export; app assets are in public/images
+design-reference.json
